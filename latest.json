@@ -1,0 +1,18 @@
+{
+  "schema": 2,
+  "app_id": "com.example.shiguangyard.g9fresh",
+  "channel": "test",
+  "version_code": 3,
+  "version_name": "G9-fresh-3",
+  "min_android_sdk": 24,
+  "min_client_version_code": 1,
+  "abis": [
+    "arm64",
+    "arm32"
+  ],
+  "save_schema": 2,
+  "release_url": "https://github.com/xing90273/shiguang-releases/releases/tag/v3",
+  "apk_url": "https://github.com/xing90273/shiguang-releases/releases/download/v3/shiguang-garden-v3.apk",
+  "apk_sha256": "448efeb4412e3eb02da8c9ca88486d294ca5ca726d70a5a353d5ddfa2b8edd8d",
+  "notes": "补充特殊方块组合技与练习关，修复进度和偏好保存，完善玩法说明；设置中新增手动检查更新，确认后打开本仓库发布页，自行下载安装。与新版独立测试 v2 同包同签名，勿卸载。未完成 Android 真机端到端验证。"
+}
